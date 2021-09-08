@@ -41,19 +41,4 @@
     "lastName": "world",
     "checkbox": true
   },
-  {
-    "id": "8",
-    "firstname": "him",
-    "lastname": "I"
-  },
-  {
-    "id": "9",
-    "firstname": "him",
-    "lastname": "I"
-  },
-  {
-    "id": "10",
-    "firstname": "him",
-    "lastname": "i"
-  }
 ]
