@@ -1,4 +1,11 @@
 [
+   {
+    "companyName": "Apollo",
+    "amount": 2,
+    "type": "Interim",
+    "exdate": "2020-11-26",
+    "record":"2020-11-26"
+  },
   {
     "companyName": "Infosys",
     "amount": 25,
@@ -43,6 +50,13 @@
   },
   {
     "companyName": "SBI",
+    "amount": 2,
+    "type": "Interim",
+    "exdate": "2020-11-26",
+    "record":"2020-11-26"
+  },
+ {
+    "companyName": "Max",
     "amount": 2,
     "type": "Interim",
     "exdate": "2020-11-26",
