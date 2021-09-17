@@ -1,65 +1,65 @@
 [
    {
+    "companyName": "HG Infra",
+    "cmp": 658,
+    "target": 750,
+    "firm": "ICICI Direct",
+    "source":""
+  },
+  {
     "companyName": "Apollo",
-    "amount": 2,
-    "type": "Interim",
-    "exdate": "2020-11-26",
-    "record":"2020-11-26"
+    "cmp": 4590,
+    "target": 5200,
+    "firm": "Yes Securities",
+    "source":""
   },
   {
-    "companyName": "Infosys",
-    "amount": 25,
-    "type": "Interim",
-    "exdate": "2020-11-26",
-    "record":"2020-11-26"
+    "companyName": "Max Helth",
+    "cmp": 780,
+    "target": 960,
+    "firm": "Centrum Broking",
+    "source":""
   },
   {
-    "companyName": "TCS",
-    "amount": 20,
-    "type": "Interim",
-    "exdate": "2020-11-26",
-    "record":"2020-11-26"
+   "companyName": "CESC",
+    "cmp": 780,
+    "target": 960,
+    "firm": "HDFC Securites",
+    "source":""
   },
   {
-    "companyName": "HDFC",
-    "amount": 8,
-    "type": "Interim",
-    "exdate": "2020-11-26",
-    "record":"2020-11-26"
+    "companyName": "IEX",
+    "cmp": 780,
+    "target": 960,
+    "firm": "Sharekhan",
+    "source":""
   },
   {
-    "companyName": "Axis",
-    "amount": 9,
-    "type": "Interim",
-    "exdate": "2020-11-26",
-    "record":"2020-11-26"
+    "companyName": "Polycab",
+    "cmp": 780,
+    "target": 960,
+    "firm": "Reliance Securities",
+    "source":""
   },
   {
-    "companyName": "ITC",
-    "amount": 90,
-    "type": "Interim",
-    "exdate": "2020-11-26",
-    "record":"2020-11-26"
+    "companyName": "Pnc Infra",
+    "cmp": 780,
+    "target": 960,
+    "firm": "Motilal Oswal",
+    "source":""
   },
   {
-    "companyName": "BPCL",
-    "amount": 58,
-    "type": "Interim",
-    "exdate": "2020-11-26",
-    "record":"2020-11-26"
-  },
-  {
-    "companyName": "SBI",
-    "amount": 2,
-    "type": "Interim",
-    "exdate": "2020-11-26",
-    "record":"2020-11-26"
+    "companyName": "Tata Motors",
+    "cmp": 780,
+    "target": 960,
+    "firm": "Kotak Securities",
+    "source":""
   },
  {
-    "companyName": "Max",
-    "amount": 2,
-    "type": "Interim",
-    "exdate": "2020-11-26",
-    "record":"2020-11-26"
+   "companyName": "Nestle",
+    "cmp": 780,
+    "target": 960,
+    "firm": "Emkay Global",
+    "source":""
   }
 ]
