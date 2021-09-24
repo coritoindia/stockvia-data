@@ -6,7 +6,7 @@
     "close": "30-09-2021",
     "lotsize":"2000",
     "price": "70",
-    "issuesize": "19.61",
+    "issuesize": "19.61"
   },
   {
     "companyName": "Aditya Birla Sun Life AMC Ltd IPO",
@@ -15,7 +15,7 @@
     "close": "01-10-2021",
     "lotsize":"20",
     "price": "695 to 712",
-    "issuesize": "2768.26",
+    "issuesize": "2768.26"
   },
   {
     "companyName": "Getalong Enterprise Limited IPO",
@@ -24,6 +24,6 @@
     "close": "30-09-2021",
     "lotsize":"2000",
     "price": "69",
-    "issuesize": "5.18",
+    "issuesize": "5.18"
   }  
 ]
