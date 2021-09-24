@@ -1,5 +1,32 @@
 [
    {
+    "companyName": "Jainam Ferro Alloys (I) Limited IPO",
+    "exchange": "NSE,SME",
+    "open": "28-09-2021",
+    "close": "30-09-2021",
+    "lotsize":"2000",
+    "price": "70",
+    "issuesize": "19.61",
+  },
+   {
+    "companyName": "Aditya Birla Sun Life AMC Ltd IPO",
+    "exchange": "BSE,NSE",
+    "open": "29-09-2021",
+    "close": "01-10-2021",
+    "lotsize":"20",
+    "price": "695 to 712",
+    "issuesize": "2768.26",
+  },
+   {
+    "companyName": "Getalong Enterprise Limited IPO",
+    "exchange": "BSE,SME",
+    "open": "27-09-2021",
+    "close": "30-09-2021",
+    "lotsize":"2000",
+    "price": "69",
+    "issuesize": "5.18",
+  },
+   {
     "companyName": "Apollo",
     "amount": 2,
     "type": "Interim",
