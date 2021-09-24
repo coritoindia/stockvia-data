@@ -1,0 +1,65 @@
+[
+   {
+    "companyName": "Apollo",
+    "amount": 2,
+    "type": "Interim",
+    "exdate": "2020-11-26",
+    "record":"2020-11-26"
+  },
+  {
+    "companyName": "Infosys",
+    "amount": 25,
+    "type": "Interim",
+    "exdate": "2020-11-26",
+    "record":"2020-11-26"
+  },
+  {
+    "companyName": "TCS",
+    "amount": 20,
+    "type": "Interim",
+    "exdate": "2020-11-26",
+    "record":"2020-11-26"
+  },
+  {
+    "companyName": "HDFC",
+    "amount": 8,
+    "type": "Interim",
+    "exdate": "2020-11-26",
+    "record":"2020-11-26"
+  },
+  {
+    "companyName": "Axis",
+    "amount": 9,
+    "type": "Interim",
+    "exdate": "2020-11-26",
+    "record":"2020-11-26"
+  },
+  {
+    "companyName": "ITC",
+    "amount": 90,
+    "type": "Interim",
+    "exdate": "2020-11-26",
+    "record":"2020-11-26"
+  },
+  {
+    "companyName": "BPCL",
+    "amount": 58,
+    "type": "Interim",
+    "exdate": "2020-11-26",
+    "record":"2020-11-26"
+  },
+  {
+    "companyName": "SBI",
+    "amount": 2,
+    "type": "Interim",
+    "exdate": "2020-11-26",
+    "record":"2020-11-26"
+  },
+ {
+    "companyName": "Max",
+    "amount": 2,
+    "type": "Interim",
+    "exdate": "2020-11-26",
+    "record":"2020-11-26"
+  }
+]
